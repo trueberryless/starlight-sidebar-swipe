@@ -3,13 +3,13 @@
   "version": "0.0.0",
   "private": true,
   "description": "Starlight plugin to make the sidebar swipeable on mobile devices like Discord Mobile.",
-  "homepage": "https://github.com/trueberryless-org/starlight-sidebar-swipe",
+  "homepage": "https://github.com/trueberryless/starlight-sidebar-swipe",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/starlight-sidebar-swipe/issues"
+    "url": "https://github.com/trueberryless/starlight-sidebar-swipe/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-sidebar-swipe.git"
+    "url": "https://github.com/trueberryless/starlight-sidebar-swipe.git"
   },
   "license": "MIT",
   "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",

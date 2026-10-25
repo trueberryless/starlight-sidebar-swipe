@@ -16,11 +16,11 @@
   ],
   "homepage": "https://starlight-sidebar-swipe.netlify.app/",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/starlight-sidebar-swipe/issues"
+    "url": "https://github.com/trueberryless/starlight-sidebar-swipe/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-sidebar-swipe.git",
+    "url": "https://github.com/trueberryless/starlight-sidebar-swipe.git",
     "directory": "packages/starlight-sidebar-swipe"
   },
   "license": "MIT",
