@@ -1,5 +1,11 @@
 # starlight-sidebar-swipe
 
+## 0.4.1
+
+### Patch Changes
+
+- [#86](https://github.com/trueberryless/starlight-sidebar-swipe/pull/86) [`c2fa3af`](https://github.com/trueberryless/starlight-sidebar-swipe/commit/c2fa3af6e33c624f72c6f93e8fa9f3f4e029118a) Thanks [@trueberryless-bot](https://github.com/trueberryless-bot)! - Updates the repository links after the move from the `trueberryless-org` GitHub organization to the `trueberryless` account.
+
 ## 0.4.0
 
 ### Minor Changes
