@@ -37,7 +37,7 @@ export default defineConfig({
       ],
       editLink: {
         baseUrl:
-          "https://github.com/trueberryless-org/starlight-sidebar-swipe/edit/main/docs/",
+          "https://github.com/trueberryless/starlight-sidebar-swipe/edit/main/docs/",
       },
       plugins: [
         starlightSidebarSwipe(),
@@ -64,7 +64,7 @@ export default defineConfig({
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/trueberryless-org/starlight-sidebar-swipe",
+          href: "https://github.com/trueberryless/starlight-sidebar-swipe",
         },
       ],
     }),

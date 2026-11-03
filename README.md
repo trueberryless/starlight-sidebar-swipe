@@ -10,7 +10,7 @@ Read the [Starlight Sidebar Swipe docs](https://starlight-sidebar-swipe.netlify.
 
 ## Package
 
-If you are looking for the Starlight plugin package, you can find it in the [`packages/starlight-sidebar-swipe/`](https://github.com/trueberryless-org/starlight-sidebar-swipe/tree/main/packages/starlight-sidebar-swipe) directory.
+If you are looking for the Starlight plugin package, you can find it in the [`packages/starlight-sidebar-swipe/`](https://github.com/trueberryless/starlight-sidebar-swipe/tree/main/packages/starlight-sidebar-swipe) directory.
 
 ## Project structure
 
@@ -20,4 +20,4 @@ This project uses pnpm workspaces to develop a single Starlight plugin from the 
 
 Licensed under the MIT License, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/starlight-sidebar-swipe/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/starlight-sidebar-swipe/blob/main/LICENSE) for more information.
